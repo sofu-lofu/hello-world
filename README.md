@@ -1,2 +1,5 @@
 # hello-world
-it's part of the tutorial duh
+
+Hi peoples,
+
+im sofu, I like peoples.
